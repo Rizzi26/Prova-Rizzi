@@ -52,8 +52,8 @@ def show(interface):
 
 ![CLI](/fotos/print1.png)
 
-![CLI](../fotos/print2.png)
+![CLI](/fotos/print2.png)
 
-![CLI](../fotos/print3.png)
+![CLI](/fotos/print3.png)
 
 
