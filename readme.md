@@ -50,10 +50,10 @@ def show(interface):
 
 # Prints 
 
-![CLI](../../fotos/print1.png)
+![CLI](../fotos/print1.png)
 
-![CLI](../../fotos/print2.png)
+![CLI](../fotos/print2.png)
 
-![CLI](../../fotos/print3.png)
+![CLI](../fotos/print3.png)
 
 
